@@ -1,0 +1,16 @@
+{
+  "name": "obj-path",
+  "version": "1.0.0",
+  "description": "Getting object property by a path string.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damianc/obj-path.git"
+  },
+  "author": "damianc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damianc/obj-path/issues"
+  },
+  "homepage": "https://github.com/damianc/obj-path#readme"
+}
