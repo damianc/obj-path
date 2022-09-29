@@ -2,6 +2,14 @@
 
 Getting object property by a path string.
 
+## Installation
+
+```
+npm i @damianc/obj-path
+```
+
+## Use
+
 ```
 const obj = {
   foo: {

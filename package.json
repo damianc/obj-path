@@ -1,5 +1,5 @@
 {
-  "name": "obj-path",
+  "name": "@damianc/obj-path",
   "version": "1.0.0",
   "description": "Getting object property by a path string.",
   "main": "index.js",
